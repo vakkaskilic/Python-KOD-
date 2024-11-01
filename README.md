@@ -1,0 +1,2 @@
+# Python-KOD-
+Python KOD ÖRNEKLERİ: YENİ BAŞLAYANLAR İÇİN EN İYİ ÖRNEKLER
